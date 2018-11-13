@@ -27,7 +27,7 @@ public class UserController {
     @GetMapping("/user/hello")
     @ResponseBody
     public String hello() {
-        return "hello kenny";
+        return "hello carter";
     }
 
     /*
