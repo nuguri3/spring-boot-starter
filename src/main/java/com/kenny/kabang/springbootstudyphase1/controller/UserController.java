@@ -56,7 +56,7 @@ public class UserController {
         Users users = new Users();
         users.setUserId("kenny.k");
         users.setUserName("Dongkyoon");
-        users.setUserAge("34");
+        users.setUserAge("35");
 
         return users;
     }
